@@ -1,0 +1,124 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 170px;
+    background-image: url(src/images/vfBackground.png);
+
+    
+
+}
+#login-logo {
+    width: 40%;
+    margin-bottom: 44px;
+}
+#login-email, #login-password {
+    margin-bottom: 25px;
+
+
+}
+
+#login-password {
+    margin-bottom: 40px;
+
+}
+
+
+.login-top-part {
+    width: 100%;
+    display: flex;
+    height: 100px;
+    /* background-color: rgba(171, 34, 34, 0.597); */
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#login-login-inputs {
+    border-radius: 5%;
+    max-width: 450px;
+    width: auto;
+    height: auto;
+    margin: auto;
+    background-color: #c1eceaf9;
+    padding: 25px;
+
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+#login-link {
+    margin-top: 10px;
+}
+
+
+
+.login-h1 {
+    font-size: 30px;
+    margin: 40px;
+    display: flex;
+}
+
+.login-logo-div {
+    pad: 80px;
+    height: 50px;
+    width: 32%;
+    background-color: #c1eceaf9;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    outline: 2px solid #c1eceaf9;
+}
+
+.login-logo-div-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-davinci-logo {
+    height: 45px;
+    margin: 15px;
+}
+
+.login-edutrans-logo {
+    height: 80%;
+    margin: 7px;
+}
+
+.login-powered-text {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.login-images-container {
+    width: 400px;
+    height: 70px;
+    margin-top: 20px;
+    /* background-color: black; */
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.login-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.login-button {
+    left: 125px;
+    width: 150px;
+}
