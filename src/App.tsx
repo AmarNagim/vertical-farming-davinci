@@ -4,7 +4,7 @@ import Message from "./Message";
 import ListGroup from "./components/ListGroup";
 import Login from "./login";
 import ForgotPassword from "./forgotPassword";
-import Home from "./dashboard-home";
+import Home from "./Main Menu/dashboard-home";
 
 function App() {
   return (
